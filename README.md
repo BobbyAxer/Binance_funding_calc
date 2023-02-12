@@ -48,7 +48,7 @@ ctrl+x to exit
 
 5. Run the code
 
-python main.py
+python3 main.py
 
 
 5. The results will be stored in an excel file named funding.xlsx.
