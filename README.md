@@ -25,7 +25,7 @@ SECRET_B=your_api_secret
 
 1. Clone the repository
 
-git clone https://github.com/Samar4eg/Binance_funding_calc.git
+git clone https://github.com/BobbyAxer/Binance_funding_calc.git
 
 
 2. Navigate to the project directory
