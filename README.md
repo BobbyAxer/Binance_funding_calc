@@ -64,5 +64,5 @@ pip install -r requirements.txt
 python main.py
 
 
-The results will be stored in an excel file named funding.xlsx.
+7. The results will be stored in an excel file named funding.xlsx.
 
