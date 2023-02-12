@@ -1,28 +1,6 @@
-# Project Documentation
-Introduction
-This code retrieves the funding rate data from Binance futures API, and calculates the average funding rate for different time periods. The results are stored in an excel file, with a sheet named "Funding_management". The top 15 symbols with the highest and lowest average funding rate for the last 7 days, last funding rate, and 1 day, 3 days, 7 days, 30 days, and 90 days are also displayed.
-
-# Requirements
-
--Requests
-
--JSON
-
--Openpyxl
-
--Pandas
-
--dotenv
-
--asyncio
-
--aiohttp
-
-# Project Documentation
-
-## Introduction
-
-This code retrieves the funding rate data from Binance futures API, and calculates the average funding rate for different time periods. The results are stored in an excel file, with a sheet named "Funding_management". The top 15 symbols with the highest and lowest average funding rate for the last 7 days, last funding rate, and 1 day, 3 days, 7 days, 30 days, and 90 days are also displayed.
+## Project Documentation
+# Introduction
+This code retrieves the funding rate data from Binance futures API, and calculates the average funding rate for different time periods for all coins traded on Binance Futures. The results are stored in an excel file, with a sheet named "Funding_management". The top 15 symbols with the highest and lowest average funding rate for the last 7 days and the highest and lowest for the last period printed.
 
 ## Requirements
 
@@ -39,6 +17,7 @@ This code retrieves the funding rate data from Binance futures API, and calculat
 This code uses the os and dotenv libraries to access environment variables that store the API key and secret. To run the code, create a file named .env in the same directory as the code and set the API key and secret as follows:
 
 API_B=your_api_key
+
 SECRET_B=your_api_secret
 
 
