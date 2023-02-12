@@ -5,11 +5,17 @@ This code retrieves the funding rate data from Binance futures API, and calculat
 # Requirements
 
 -Requests
+
 -JSON
+
 -Openpyxl
+
 -Pandas
+
 -dotenv
+
 -asyncio
+
 -aiohttp
 
 # Project Documentation
