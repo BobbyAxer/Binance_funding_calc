@@ -44,7 +44,9 @@ source env/bin/activate
 pip install -r requirements.txt
 
 
-5. Create the .env file and set the API key and secret as described in the Environment Variables section above
+5. Open the .env file and set the API key and secret as described in the Environment Variables section above
+
+nano .env
 
 6. Run the code
 
