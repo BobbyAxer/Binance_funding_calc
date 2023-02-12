@@ -53,5 +53,5 @@ python main.py
 
 ![A screenshot of the print](https://github.com/your-username/your-repo/blob/main/screenshot.png)
 
-![A screenshot of funding excel file](https://github.com/your-username/your-repo/blob/main/screenshot.png)
+![A screenshot of funding excel file](https://github.com/Samar4eg/Binance_funding_calc/blob/main/funding%20example.png)
 
