@@ -33,27 +33,25 @@ git clone https://github.com/BobbyAxer/Binance_funding_calc.git
 cd Binance_funding_calc
  
 
-3. Create a virtual environment and activate it
 
-python -m venv env
-source env/bin/activate
-
-
-4. Install the required packages
+3. Install the required packages
 
 pip install -r requirements.txt
 
 
-5. Open the .env file and set the API key and secret as described in the Environment Variables section above
+4. Open the .env file and set the API key and secret as described in the Environment Variables section above
 
 nano .env
 
-6. Run the code
+ctrl+o(mac version) to save
+ctrl+x to exit
+
+5. Run the code
 
 python main.py
 
 
-7. The results will be stored in an excel file named funding.xlsx.
+5. The results will be stored in an excel file named funding.xlsx.
 
 ![A screenshot of the print](https://github.com/Samar4eg/Binance_funding_calc/blob/main/print%20example.png)
 
