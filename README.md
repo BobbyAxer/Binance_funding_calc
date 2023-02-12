@@ -3,7 +3,7 @@
 This code retrieves the funding rate data from Binance futures API, and calculates the average funding rate for different time periods for all coins traded on Binance Futures. The results are stored in an excel file, with a sheet named "Funding_management". The top 15 symbols with the highest and lowest average funding rate for the last 7 days and the highest and lowest for the last period printed.
 
 ## Requirements
-
+Code worked for me on python 3.8.9
 - Requests
 - JSON
 - Openpyxl
