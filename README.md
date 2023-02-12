@@ -30,7 +30,7 @@ git clone https://github.com/BobbyAxer/Binance_funding_calc.git
 
 2. Navigate to the project directory
 
-cd binance-futures-funding-rate
+cd Binance_funding_calc
  
 
 3. Create a virtual environment and activate it
