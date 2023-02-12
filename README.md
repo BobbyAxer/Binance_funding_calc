@@ -51,3 +51,7 @@ python main.py
 
 7. The results will be stored in an excel file named funding.xlsx.
 
+![A screenshot of the print](https://github.com/your-username/your-repo/blob/main/screenshot.png)
+
+![A screenshot of funding excel file](https://github.com/your-username/your-repo/blob/main/screenshot.png)
+
