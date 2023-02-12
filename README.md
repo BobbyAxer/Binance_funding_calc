@@ -12,20 +12,24 @@ This code retrieves the funding rate data from Binance futures API, and calculat
 -asyncio
 -aiohttp
 
-#Environment Variables
+# Environment Variables
 This code uses the os and dotenv libraries to access environment variables that store the API key and secret. To run the code, create a file named .env in the same directory as the code and set the API key and secret as follows:
 
 API_B=your_api_key
 SECRET_B=your_api_secret
 
-#Usage
+# Usage
 1.Clone the repository
+
 2. Install the required packages by running pip install -r requirements.txt in your terminal
+ 
 3. Set up the environment variables in the .env file as described above
+
 4. Run the code by executing python main.py
+
 5. The results will be stored in an excel file named funding.xlsx
 
-#Installation Tutorial
+# Installation Tutorial
 
 1.Clone the repository:
 git clone 
